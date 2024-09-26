@@ -203,6 +203,7 @@ html,body {
     opacity: 0;
     transform: translate(-50%, -50%);
     transition: all linear 0.3s;
+    pointer-events: none;
 }
 
 #third {
